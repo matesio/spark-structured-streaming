@@ -1,6 +1,6 @@
-#simple wordcount example with apahce spark structured streaming
+# simple wordcount example with apahce spark structured streaming
 
-##Usage
+## Usage
 
 ###Data 
 * from netcat utility on linux terminal.

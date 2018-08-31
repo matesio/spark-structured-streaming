@@ -1,4 +1,4 @@
-# simple wordcount example with apahce spark structured streaming
+# Simple wordcount example with apahce spark structured streaming
 
 ## Usage
 
